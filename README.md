@@ -1,4 +1,4 @@
-﻿# Security Awareness Program for Financial Institutions
+# Security Awareness Program for Financial Institutions
 
 This portfolio outlines the foundational components required to build a Security Awareness and Human Risk Management program from the ground up. It provides a structured, outcome‑driven blueprint that includes:
 
@@ -10,10 +10,10 @@ This portfolio outlines the foundational components required to build a Security
 
 The portfolio is designed to serve as a comprehensive reference for building a modern, threat-informed, and metrics-driven Security Awareness program within a highly regulated financial institution.
 
-# Outcome 1 — Framework & Regulatory Mapping
+# [Outcome 1 — Framework & Regulatory Mapping](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/NIST%20800%E2%80%9153%20Security%20Awareness%20%26%20Human%20Risk%20Mapping.md)
 Defines how the Security Awareness & Human Risk Management program aligns to CRI, NIST, FFIEC, ISO, PCI, SOX, and SEC governance expectations.
 
-# Outcome 2 — Program Strategy & Maturity Development
+# [Outcome 2 — Program Strategy & Maturity Development](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Enterprise%20Security%20Awareness%20%26%20Human%20Risk%20Management%20Portfolio.md)
 Establishes the strategic vision, operating principles, and maturity roadmap required to evolve the program from baseline to optimized human‑risk management.
 
 # Outcome 3 — Operational Execution Plan & Event Schedule
