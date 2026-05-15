@@ -16,7 +16,7 @@ Defines how the Security Awareness & Human Risk Management program aligns to CRI
 # [Outcome 2 — Program Strategy & Maturity Development](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Enterprise%20Security%20Awareness%20%26%20Human%20Risk%20Management%20Portfolio.md)
 Establishes the strategic vision, operating principles, and maturity roadmap required to evolve the program from baseline to optimized human‑risk management.
 
-# Outcome 3 — Operational Execution Plan & Event Schedule
+# [Outcome 3 — Operational Execution Plan & Event Schedule](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/2026%20Sample%20Annual%20Awareness%20%26%20Simulation%20Schedule.md)
 Provides a sample annual awareness calendar, simulation cadence, and campaign planning model to demonstrate how the program executes throughout the year.
 
 # Outcome 4 — Portfolio & Presentation Materials
