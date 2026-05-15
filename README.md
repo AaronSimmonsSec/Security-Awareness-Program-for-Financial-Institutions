@@ -19,7 +19,7 @@ Establishes the strategic vision, operating principles, and maturity roadmap req
 # [Outcome 3 — Operational Execution Plan & Event Schedule](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/2026%20Sample%20Annual%20Awareness%20%26%20Simulation%20Schedule.md)
 Provides a sample annual awareness calendar, simulation cadence, and campaign planning model to demonstrate how the program executes throughout the year.
 
-# Outcome 4 — Portfolio & Presentation Materials
+# [Outcome 4 — Portfolio & Presentation Materials](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Portfolio%20and%20Presentation%20Materials.md)
 Includes example executive‑ready artifacts such as strategy decks, dashboards, reporting templates, and communication materials.
 
 # [Outcome 5 — KPI Framework & Measurement Strategy](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/KPI%20Framework%20Mapped%20to%20Program%20Strategy.md)
