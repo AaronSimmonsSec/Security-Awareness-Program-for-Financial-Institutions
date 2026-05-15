@@ -29,7 +29,7 @@ All materials are designed for financial institutions and support both awareness
 [2026 Awareness Webinar Series – Financial Institutions](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/2026%20Awareness%20Webinar%20Series%20%E2%80%93%20Finanical%20Institutions.pptx) 
 
 ### 📥 Download May 2026 Awareness Example Presentation
-[May — AI Threats & Deepfakes](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/05.2026%20-%20AI%20Threats%20and%20Deepfakes.pptx)
+[May — AI Threats & Deepfakes]([https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/05.2026%20-%20AI%20Threats%20and%20Deepfakes.pptx](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/05.2026%20-%20AI%20Threats%20and%20Deepfakes.pptx)
 
 ---
 
