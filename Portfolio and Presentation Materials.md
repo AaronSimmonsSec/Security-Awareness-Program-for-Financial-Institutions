@@ -1,5 +1,5 @@
 # 📊 Sample Presentation Materials  
-### *Security Awareness - — Financial Institutions (2026)*
+### *Security Awareness — Financial Institutions (2026)*
 
 This section provides downloadable presentation materials from the **2026 Security Awareness Program**.
 
