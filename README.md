@@ -22,5 +22,5 @@ Provides a sample annual awareness calendar, simulation cadence, and campaign pl
 # Outcome 4 — Portfolio & Presentation Materials
 Includes example executive‑ready artifacts such as strategy decks, dashboards, reporting templates, and communication materials.
 
-# Outcome 5 — KPI Framework & Measurement Strategy
+# [Outcome 5 — KPI Framework & Measurement Strategy](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/KPI%20Framework%20Mapped%20to%20Program%20Strategy.md)
 Defines the measurable outcomes, behavioral indicators, and performance targets required to track program effectiveness and demonstrate risk reduction.
