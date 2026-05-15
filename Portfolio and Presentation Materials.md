@@ -25,8 +25,11 @@ All materials are designed for financial institutions and support both awareness
 - November — BEC & Wire Fraud  
 - December — Year‑End Review & Holiday Scams  
 
-### 📥 Download Full Awareness Deck  
-[2026 Awareness Webinar Series – Financial Institutions](assets/downloads/2026-Awareness-Webinar-Series-Financial-Institutions.pptx)
+### 📥 Download Full Awareness Schedule Deck  
+[2026 Awareness Webinar Series – Financial Institutions](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/2026%20Awareness%20Webinar%20Series%20%E2%80%93%20Finanical%20Institutions.pptx) 
+
+### 📥 Download May 2026 Awareness Example Presentation
+[May — AI Threats & Deepfakes]()
 
 ---
 
@@ -51,9 +54,9 @@ All materials are designed for financial institutions and support both awareness
 - December — Vulnerability Management & Patching  
 
 ### 📥 Download Full Technology Deck  
-[2026 Technology Webinar Series – Financial Institutions](assets/downloads/2026-Technology-Webinar-Series-Financial-Institutions.pptx)
+[2026 Technology Webinar Series – Financial Institutions]([assets/downloads/2026-Technology-Webinar-Series-Financial-Institutions.pptx](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/2026%20Technology%20Webinar%20Series%20%E2%80%93%20Financial%20Institutions.pptx)
+
+### 📥 Download May 2026 Technology Example Presentation
+[May — AI/ML Security & Prompt Injection](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/05.2026%20-%20AI%20and%20ML%20Security%20%E2%80%93%20Prompt%20Injection%20Deep%20Dive.pptx)  
 
 ---
-
-## 📁 Recommended GitHub Folder Structure
-
