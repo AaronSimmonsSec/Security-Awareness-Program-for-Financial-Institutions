@@ -54,7 +54,7 @@ All materials are designed for financial institutions and support both awareness
 - December — Vulnerability Management & Patching  
 
 ### 📥 Download Full Technology Deck  
-[2026 Technology Webinar Series – Financial Institutions]([assets/downloads/2026-Technology-Webinar-Series-Financial-Institutions.pptx](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/2026%20Technology%20Webinar%20Series%20%E2%80%93%20Financial%20Institutions.pptx)
+[2026 Technology Webinar Series – Financial Institutions](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/2026%20Technology%20Webinar%20Series%20%E2%80%93%20Financial%20Institutions.pptx)
 
 ### 📥 Download May 2026 Technology Example Presentation
 [May — AI/ML Security & Prompt Injection](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/05.2026%20-%20AI%20and%20ML%20Security%20%E2%80%93%20Prompt%20Injection%20Deep%20Dive.pptx)  
