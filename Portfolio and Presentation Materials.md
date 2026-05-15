@@ -26,7 +26,7 @@ All materials are designed for financial institutions and support both awareness
 - December — Year‑End Review & Holiday Scams  
 
 ### 📥 Download Full Awareness Schedule Deck  
-[2026 Awareness Webinar Series – Financial Institutions](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/2026%20Awareness%20Webinar%20Series%20%E2%80%93%20Finanical%20Institutions.pptx) 
+[2026 Awareness Webinar Series – Financial Institutions](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/2026%20Awareness%20Webinar%20Series%20%E2%80%93%20Finanical%20Institutions.pptx) Coming Soon!
 
 ### 📥 Download May 2026 Awareness Example Presentation
 [May — AI Threats & Deepfakes]()
