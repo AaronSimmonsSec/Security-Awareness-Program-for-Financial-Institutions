@@ -3,7 +3,7 @@
 
 This section provides downloadable presentation materials from the **2026 Security Awareness Program**.
 
-All materials are designed for financial institutions and support awareness initiatives, technical training tracks, phishing simulation programs, newsletters, annual required risk training, and human risk reduction strategies.
+All materials are designed for financial institutions and support awareness initiatives, technical training tracks, phishing simulation programs, newsletters, annual required risk training, tabletop exercises, and human risk reduction strategies.
 
 ---
 
@@ -13,8 +13,10 @@ All materials are designed for financial institutions and support awareness init
 - [🛠️ 2026 Technology Webinar Series](#️-2026-technology-webinar-series)
 - [📰 2026 Security Awareness Newsletter Series](#-2026-security-awareness-newsletter-series)
 - [🎯 Phishing Simulation Portfolio Examples](#-phishing-simulation-portfolio-examples)
+- [🛡️ Tabletop Exercises](#️-tabletop-exercises)
 - [🏢 Work Area Security Sweep](#-work-area-security-sweep)
 - [📅 Cybersecurity Communications Release Schedule](#-cybersecurity-communications-release-schedule)
+- [🛡️ Program Capabilities Demonstrated](#️-program-capabilities-demonstrated)
 
 ---
 
@@ -125,6 +127,92 @@ This example shows the educational landing page employees would see after intera
 
 ---
 
+# 🛡️ Tabletop Exercises
+
+### *Cyber Incident Readiness & Human Risk Validation*
+
+This section demonstrates realistic cybersecurity tabletop exercises designed to validate operational readiness, employee decision-making, escalation discipline, executive communications, and incident response coordination within a financial institution environment.
+
+The tabletop exercise capability supports:
+
+- Incident response readiness
+- Blue Team operational maturity
+- Human risk reduction
+- Crisis communication validation
+- Executive cyber preparedness
+- Regulatory and audit preparedness
+- NIST CSF and CRI framework alignment
+- Threat-informed cyber resilience exercises
+
+---
+
+## 🔵 Blue Team Incident Response Exercise
+
+### *Phishing → Credential Theft → Lateral Movement → Data Exfiltration*
+
+This exercise simulates a realistic multi-stage cyberattack against a financial institution environment and is designed for:
+
+- SOC Analysts
+- Incident Responders
+- Threat Hunters
+- Security Engineering Teams
+- Cybersecurity Leadership
+
+The exercise includes:
+
+- Technical injects
+- Detection opportunities
+- MITRE ATT&CK mapping
+- NIST & CRI framework alignment
+- Scoring and maturity evaluation
+- After-action review structure
+
+### 🔗 View Exercise
+
+[View Blue Team Incident Response Tabletop Exercise](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/blue-team-tabletop-exercise.md)
+
+---
+
+## 🧠 Enterprise Cyber Tabletop Program
+
+### *Security Awareness & Cyber Resilience Program*
+
+This section provides the broader tabletop exercise framework supporting enterprise cyber resilience, awareness reinforcement, and operational readiness.
+
+Topics include:
+
+- Executive cyber crisis exercises
+- Ransomware response
+- Business Email Compromise (BEC)
+- Third-party breach scenarios
+- Insider threat exercises
+- AI-enabled social engineering
+- Data exposure response
+- Operational resilience validation
+
+### 🔗 View Program
+
+[View Enterprise Tabletop Exercise Program](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Incident%20Response%20Tabletop%20Scenario.md)
+
+---
+
+## 🎨 Blue Team Exercise Comic Strip
+
+### *Visual Storytelling for Security Awareness & Incident Response Training*
+
+This visual exercise walkthrough transforms the incident response scenario into an infographic-style comic strip to support:
+
+- Security awareness engagement
+- Blue Team education
+- Leadership presentations
+- Technical workshop facilitation
+- SOC onboarding and training
+
+### 🔗 View Full Image
+
+[View Blue Team Tabletop Exercise Comic](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Blue%20Team%20Incident%20Response%20Tabletop%20Exercise%20Illustration.png)
+---
+
 # 🏢 Work Area Security Sweep
 
 ### *Physical Security & Clean Desk Assessment — Financial Institution Example*
@@ -195,11 +283,17 @@ This portfolio demonstrates capabilities across:
 - Human Risk Management
 - Cybersecurity Communications
 - Phishing Simulation Strategy
+- Tabletop Exercise Development
+- Incident Response Readiness
+- Blue Team Exercise Facilitation
 - Social Engineering Awareness
 - Physical Security Awareness
 - Security Culture Development
 - Technical Security Education
 - Enterprise Communications Planning
 - Compliance & Risk Awareness Initiatives
+- NIST CSF Alignment
+- Cyber Risk Institute (CRI) Mapping
+- Threat-Informed Defense Strategy
 
 ---
