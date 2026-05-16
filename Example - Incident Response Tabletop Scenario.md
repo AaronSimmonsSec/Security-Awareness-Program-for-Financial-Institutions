@@ -425,4 +425,6 @@ The exercise also provides measurable evidence for:
 # Blue Team Incident Response Tabletop Exercise
 
 A realistic multi-stage cyberattack scenario designed for SOC analysts, incident responders, and Blue Team personnel within a financial institution environment. Includes MITRE ATT&CK mapping, NIST/CRI alignment, scoring models, technical injects, and after-action reporting structure.
+
+![Blue Team Incident Response Tabletop Exercise Comic](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Blue%20Team%20Incident%20Response%20Tabletop%20Exercise%20Illustration.png)
 ```
