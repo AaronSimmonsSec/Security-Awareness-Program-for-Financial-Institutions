@@ -110,4 +110,34 @@ This example shows the educational landing page employees would see after intera
 
 ---
 
+# 🏢 Work Area Security Sweep
+
+### *Physical Security & Clean Desk Assessment — Financial Institution Example*
+
+This example demonstrates a standard workplace security sweep performed within a corporate financial institution environment to identify physical security risks, policy violations, and opportunities for employee awareness reinforcement.
+
+Security sweeps help reduce risks associated with:
+- Unauthorized data exposure
+- Insider threat activity
+- Physical social engineering
+- Clean desk policy violations
+- Sensitive document mishandling
+- Unsecured devices and credentials
+
+### 🔍 Example Assessment Areas
+
+- Unlocked workstations
+- Exposed sensitive documents
+- Visible passwords or sticky notes
+- Unsecured mobile devices
+- Improper badge handling
+- Tailgating risks
+- Whiteboard information exposure
+- Printer and shred bin security
+
+### 🔗 View Example
+
+[View Work Area Security Sweep Example](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Work%20Area%20Security%20Checklist.md)
+
+---
 
