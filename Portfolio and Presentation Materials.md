@@ -67,7 +67,7 @@ All materials are designed for financial institutions and support both awareness
 This section provides sample newsletter materials that support the broader **2026 Security Awareness Program**. Newsletters are designed to reinforce key behaviors, promote awareness events, and highlight current threats facing financial institutions.
 
 ### 📥 Download May 2026 Newsletter Example  
-[May — AI Threats & Deepfakes Security Awareness Newsletter](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/05.2026%20-%20AI%20Threats%20and%20Deepfakes%20Newsletter.docx)
+[May — AI Threats & Deepfakes Security Awareness Newsletter](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/05.2026%20-%20The%20Awareness%20Edge.pdf)
 
 ### 🧭 Newsletter Content Areas
 
