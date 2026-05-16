@@ -80,4 +80,34 @@ This section provides sample newsletter materials that support the broader **202
 
 ---
 
+# 🎯 Phishing Simulation Portfolio Examples
+
+This section highlights example phishing simulation content developed for enterprise security awareness programs focused on reducing human risk and improving phishing identification skills.
+
 ---
+
+# 📧 Example MFA Phishing Email Simulation
+
+### *Scenario: MFA Re-Registration Campaign*
+
+This example demonstrates a realistic MFA-themed phishing simulation commonly used in enterprise environments to test employee awareness around authentication-related social engineering attacks.
+
+### 🔗 View Example
+
+[View MFA Phishing Email Simulation](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20MFA%20Phishing.png)
+
+---
+
+# ☠️ MFA Phishing Education Landing Page
+
+### *Post-Click Employee Education Experience*
+
+This example shows the educational landing page employees would see after interacting with the phishing simulation. The page reinforces phishing awareness by explaining the warning signs and recommended security behaviors.
+
+### 🔗 View Example
+
+[View MFA Phishing Education Page](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20MFA%20Education%20Page.png)
+
+---
+
+
