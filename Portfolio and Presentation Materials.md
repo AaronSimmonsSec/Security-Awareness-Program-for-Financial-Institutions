@@ -59,4 +59,25 @@ All materials are designed for financial institutions and support both awareness
 ### 📥 Download May 2026 Technology Example Presentation
 [May — AI/ML Security & Prompt Injection](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/05.2026%20-%20AI%20and%20ML%20Security%20%E2%80%93%20Prompt%20Injection%20Deep%20Dive.pptx)  
 
+## 📰 2026 Security Awareness Newsletter Series  
+
+**Audience:** All employees across financial institutions  
+**Focus:** Timely security awareness, human risk reduction, phishing trends, social engineering, communications, and upcoming learning events  
+
+This section provides sample newsletter materials that support the broader **2026 Security Awareness Program**. Newsletters are designed to reinforce key behaviors, promote awareness events, and highlight current threats facing financial institutions.
+
+### 📥 Download May 2026 Newsletter Example  
+[May — AI Threats & Deepfakes Security Awareness Newsletter](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/raw/refs/heads/main/05.2026%20-%20AI%20Threats%20and%20Deepfakes%20Newsletter.docx)
+
+### 🧭 Newsletter Content Areas
+
+- Threats to Be Aware Of  
+- Social Engineering Corner  
+- Need-to-Know Communications  
+- Upcoming Awareness Webinars  
+- Technology Training Highlights  
+- Practical Employee Security Tips  
+
+---
+
 ---
