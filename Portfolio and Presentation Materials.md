@@ -173,29 +173,6 @@ The exercise includes:
 
 ---
 
-## 🧠 Enterprise Cyber Tabletop Program
-
-### *Security Awareness & Cyber Resilience Program*
-
-This section provides the broader tabletop exercise framework supporting enterprise cyber resilience, awareness reinforcement, and operational readiness.
-
-Topics include:
-
-- Executive cyber crisis exercises
-- Ransomware response
-- Business Email Compromise (BEC)
-- Third-party breach scenarios
-- Insider threat exercises
-- AI-enabled social engineering
-- Data exposure response
-- Operational resilience validation
-
-### 🔗 View Program
-
-[View Enterprise Tabletop Exercise Program](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Incident%20Response%20Tabletop%20Scenario.md)
-
----
-
 ## 🎨 Blue Team Exercise Comic Strip
 
 ### *Visual Storytelling for Security Awareness & Incident Response Training*
@@ -211,6 +188,7 @@ This visual exercise walkthrough transforms the incident response scenario into 
 ### 🔗 View Full Image
 
 [View Blue Team Tabletop Exercise Comic](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Blue%20Team%20Incident%20Response%20Tabletop%20Exercise%20Illustration.png)
+
 ---
 
 # 🏢 Work Area Security Sweep
