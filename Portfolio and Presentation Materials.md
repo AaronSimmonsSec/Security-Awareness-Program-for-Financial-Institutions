@@ -80,6 +80,43 @@ All materials are designed for financial institutions and support awareness init
 
 ---
 
+# 🧩 Role-Based Security Awareness & Training
+
+### *Risk-Based Education & Human Risk Reduction Strategy*
+
+This section demonstrates how security awareness and learning initiatives can be aligned to employee risk exposure, operational responsibilities, and threat profiles within a financial institution environment.
+
+The role-based training strategy supports delivery of targeted and risk-appropriate education for higher-risk employee groups including executives, finance teams, help desk personnel, technology teams, privileged users, remote workers, and customer-facing staff.
+
+The matrix framework demonstrates how organizations can align awareness content to:
+
+- Human risk exposure
+- Fraud and phishing susceptibility
+- Identity & access management responsibilities
+- Privileged access security expectations
+- Regulatory and audit requirements
+- Operational and business function risk
+- Executive cyber preparedness
+- NIST CSF and CRI framework alignment
+
+### 🎯 Example Role Categories Included
+
+- Executives & Leadership
+- Help Desk & Support Teams
+- Finance & Payroll Teams
+- Technology & Engineering Teams
+- Privileged Users & Administrators
+- Customer-Facing Teams
+- Remote Workforce
+- Third-Party Contractors
+- New Hires
+
+### 🔗 View Role-Based Training Matrix
+
+[View Role-Based Security Awareness & Training Matrix](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Role-Based%20Security%20Awareness%20%26%20Training%20Matrix.md)
+
+---
+
 ## 📰 2026 Security Awareness Newsletter Series  
 
 **Audience:** All employees across financial institutions  
