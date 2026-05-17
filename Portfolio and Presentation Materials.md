@@ -9,6 +9,7 @@ All materials are designed for financial institutions and support awareness init
 
 # 📚 Table of Contents
 
+- [🗺️ Annual Security Awareness Program Roadmap](#️-annual-security-awareness-program-roadmap)
 - [🎓 2026 Security Awareness Webinar Series](#-2026-security-awareness-webinar-series)
 - [🛠️ 2026 Technology Webinar Series](#️-2026-technology-webinar-series)
 - [📰 2026 Security Awareness Newsletter Series](#-2026-security-awareness-newsletter-series)
@@ -21,6 +22,39 @@ All materials are designed for financial institutions and support awareness init
 - [📅 Cybersecurity Communications Release Schedule](#-cybersecurity-communications-release-schedule)
 - [📊 Executive KPI Dashboard](#-executive-kpi-dashboard)
 - [🛡️ Program Capabilities Demonstrated](#️-program-capabilities-demonstrated)
+
+---
+
+# 🗺️ Annual Security Awareness Program Roadmap
+
+### *Executive Program Planning & Operational Readiness Visualization*
+
+This section provides a visual executive roadmap demonstrating how the Security Awareness & Human Risk Management program operates across the calendar year within a financial institution environment.
+
+The roadmap illustrates the coordinated execution of:
+
+- Enterprise security awareness campaigns
+- Role-based training initiatives
+- Phishing simulation activities
+- Executive KPI reporting cycles
+- Tabletop exercise scheduling
+- Technology and operational awareness initiatives
+- Crisis readiness and incident response reinforcement
+- Human risk reduction and governance alignment
+
+The roadmap is designed to provide executive leadership, audit stakeholders, and operational teams with a high-level visualization of how awareness, education, communications, and resilience activities align throughout the year to support measurable risk reduction outcomes.
+
+The roadmap also demonstrates alignment to:
+
+- NIST Cybersecurity Framework (CSF)
+- Cyber Risk Institute (CRI) Profile
+- FFIEC guidance
+- Financial services operational resilience expectations
+- Human risk management best practices
+
+### 🔗 View Annual Security Awareness Program Roadmap
+
+[View 2026 Enterprise Security Awareness Program Roadmap](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Security%20Awareness%20Annual%20Roadmap.png)
 
 ---
 
