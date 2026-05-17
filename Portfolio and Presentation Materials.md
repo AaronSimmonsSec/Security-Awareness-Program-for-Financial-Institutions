@@ -14,8 +14,12 @@ All materials are designed for financial institutions and support awareness init
 - [📰 2026 Security Awareness Newsletter Series](#-2026-security-awareness-newsletter-series)
 - [🎯 Phishing Simulation Portfolio Examples](#-phishing-simulation-portfolio-examples)
 - [🛡️ Tabletop Exercises](#️-tabletop-exercises)
+  - [🔵 Blue Team Incident Response Exercise](#-blue-team-incident-response-exercise)
+  - [🎨 Blue Team Exercise Comic Strip](#-blue-team-exercise-comic-strip)
+  - [👔 Executive Tabletop Exercise Package](#-executive-tabletop-exercise-package)
 - [🏢 Work Area Security Sweep](#-work-area-security-sweep)
 - [📅 Cybersecurity Communications Release Schedule](#-cybersecurity-communications-release-schedule)
+- [📊 Executive KPI Dashboard](#-executive-kpi-dashboard)
 - [🛡️ Program Capabilities Demonstrated](#️-program-capabilities-demonstrated)
 
 ---
@@ -191,65 +195,73 @@ This visual exercise walkthrough transforms the incident response scenario into 
 
 ---
 
+## 👔 Executive Tabletop Exercise Package
+
+### *Executive Cyber Crisis Simulation & Leadership Decision-Making*
+
+This section demonstrates an executive-level cybersecurity tabletop exercise package designed for senior leadership, risk committees, business executives, communications teams, legal counsel, and crisis management stakeholders within a financial institution environment.
+
+The exercise focuses on validating executive decision-making, cyber crisis coordination, regulatory response readiness, and organizational resilience during high-impact cybersecurity incidents.
+
+The executive tabletop package includes:
+
+- Executive briefing materials
+- Crisis scenario injects
+- Leadership decision checkpoints
+- Regulatory and legal considerations
+- Media and communications response coordination
+- Business continuity and operational impact discussions
+- Escalation and governance workflows
+- Executive after-action review documentation
+- NIST CSF and CRI framework alignment
+
+### 🔗 View Executive Tabletop Exercise Package
+
+[View Executive Tabletop Exercise Package](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example-Executive%20Tabletop%20Exercise%20Package.md)
+[View Executive Tabletop Exercise Package Infographic Comic Strip](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Executive%20Tabletop%20Exercise%20Package%20Infographic%20Comic%20Strip.png)
+
+---
+
 # 🏢 Work Area Security Sweep
 
 ### *Physical Security & Clean Desk Assessment — Financial Institution Example*
 
-This example demonstrates a standard workplace security sweep performed within a corporate financial institution environment to identify physical security risks, policy violations, and opportunities for employee awareness reinforcement.
-
-Security sweeps help reduce risks associated with:
-- Unauthorized data exposure
-- Insider threat activity
-- Physical social engineering
-- Clean desk policy violations
-- Sensitive document mishandling
-- Unsecured devices and credentials
-
-### 🔍 Example Assessment Areas
-
-- Unlocked workstations
-- Exposed sensitive documents
-- Visible passwords or sticky notes
-- Unsecured mobile devices
-- Improper badge handling
-- Tailgating risks
-- Whiteboard information exposure
-- Printer and shred bin security
-
-### 🔗 View Example
-
-[View Work Area Security Sweep Example](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Work%20Area%20Security%20Checklist.md)
+... existing section unchanged ...
 
 ---
 
 # 📅 Cybersecurity Communications Release Schedule
 
-### *Enterprise Security Awareness Communication Cadence*
+... existing section unchanged ...
 
-This example demonstrates a structured cybersecurity communications release schedule used to support enterprise awareness initiatives, employee engagement, phishing awareness, compliance messaging, and human risk reduction programs within a financial institution environment.
+---
 
-The communication cadence includes:
-- Monthly newsletters
-- Event promotion campaigns
-- Cyber threat alerts
-- Policy and risk posture communications
-- Annual training launches and reminders
-- Cybersecurity Awareness Month campaigns
+# 📊 Executive KPI Dashboard
 
-### 🔍 Example Communication Activities
+### *Security Awareness & Human Risk Metrics Dashboard*
 
-- Monthly Security Awareness Newsletter
-- Awareness Event Reminder Emails
-- Event Follow-Up / Thank You Communications
-- CTI-Driven Cyber Alerts
-- Intranet Awareness Promotions
-- Policy Change Notifications
-- Cybersecurity Awareness Month Campaigns
-- Annual Training Reinforcement Communications
+This section demonstrates an executive-level cybersecurity awareness KPI dashboard designed to provide leadership visibility into program effectiveness, employee risk trends, phishing resilience, operational maturity, and overall human risk reduction performance.
 
-### 🔗 View Example
+The dashboard supports executive reporting, board-level discussions, regulatory preparedness, and continuous improvement initiatives across enterprise security awareness programs.
 
-[View Cybersecurity Communications Release Schedule](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Communication%20Release%20Schedule.md)
+### 📈 Example Metrics Included
+
+- Phishing simulation click-rate trends
+- Credential submission rates
+- Repeat phishing susceptibility tracking
+- Employee training completion metrics
+- Awareness event attendance statistics
+- Security culture engagement indicators
+- Incident reporting participation rates
+- Human risk scoring trends
+- Departmental risk comparison metrics
+- Executive reporting summaries
+- Remediation and corrective action tracking
+- Program maturity and KPI trending
+
+### 🔗 View Executive KPI Dashboard Example
+
+[View Executive KPI Dashboard Example](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Security%20Awareness%20KPI%20Reporting%20Dashboard.png)
 
 ---
 
@@ -262,8 +274,11 @@ This portfolio demonstrates capabilities across:
 - Cybersecurity Communications
 - Phishing Simulation Strategy
 - Tabletop Exercise Development
+- Executive Tabletop Facilitation
 - Incident Response Readiness
 - Blue Team Exercise Facilitation
+- Security Metrics & KPI Reporting
+- Executive Cyber Reporting
 - Social Engineering Awareness
 - Physical Security Awareness
 - Security Culture Development
