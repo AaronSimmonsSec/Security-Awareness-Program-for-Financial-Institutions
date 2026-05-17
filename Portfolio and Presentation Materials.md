@@ -227,13 +227,65 @@ The executive tabletop package includes:
 
 ### *Physical Security & Clean Desk Assessment — Financial Institution Example*
 
-... existing section unchanged ...
+This example demonstrates a standard workplace security sweep performed within a corporate financial institution environment to identify physical security risks, policy violations, and opportunities for employee awareness reinforcement.
+
+Security sweeps help reduce risks associated with:
+
+- Unauthorized data exposure
+- Insider threat activity
+- Physical social engineering
+- Clean desk policy violations
+- Sensitive document mishandling
+- Unsecured devices and credentials
+
+### 🔍 Example Assessment Areas
+
+- Unlocked workstations
+- Exposed sensitive documents
+- Visible passwords or sticky notes
+- Unsecured mobile devices
+- Improper badge handling
+- Tailgating risks
+- Whiteboard information exposure
+- Printer and shred bin security
+
+### 🔗 View Example
+
+[View Work Area Security Sweep Example](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Work%20Area%20Security%20Checklist.md)
 
 ---
 
 # 📅 Cybersecurity Communications Release Schedule
 
-... existing section unchanged ...
+### *Enterprise Security Awareness Communication Cadence*
+
+This example demonstrates a structured cybersecurity communications release schedule used to support enterprise awareness initiatives, employee engagement, phishing awareness, compliance messaging, and human risk reduction programs within a financial institution environment.
+
+The communication cadence includes:
+
+- Monthly newsletters
+- Event promotion campaigns
+- Cyber threat alerts
+- Policy and risk posture communications
+- Annual training launches and reminders
+- Cybersecurity Awareness Month campaigns
+
+### 🔍 Example Communication Activities
+
+- Monthly Security Awareness Newsletter
+- Awareness Event Reminder Emails
+- Event Follow-Up / Thank You Communications
+- CTI-Driven Cyber Alerts
+- Intranet Awareness Promotions
+- Policy Change Notifications
+- Cybersecurity Awareness Month Campaigns
+- Annual Training Reinforcement Communications
+
+### 🔗 View Example
+
+[View Cybersecurity Communications Release Schedule](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Communication%20Release%20Schedule.md)
+
+---
 
 ---
 
