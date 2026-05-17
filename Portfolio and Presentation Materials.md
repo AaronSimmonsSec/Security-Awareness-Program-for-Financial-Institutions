@@ -9,7 +9,7 @@ All materials are designed for financial institutions and support awareness init
 
 # 📚 Table of Contents
 
-- [🗺️ Annual Security Awareness Program Roadmap](#️-annual-security-awareness-program-roadmap)
+- [🗺️ Annual Security Awareness Program Roadmap and Strategic Outcomes](#️-annual-security-awareness-program-roadmap-and-stratetic-outcomes)
 - [🎓 2026 Security Awareness Webinar Series](#-2026-security-awareness-webinar-series)
 - [🛠️ 2026 Technology Webinar Series](#️-2026-technology-webinar-series)
 - [📰 2026 Security Awareness Newsletter Series](#-2026-security-awareness-newsletter-series)
@@ -25,7 +25,7 @@ All materials are designed for financial institutions and support awareness init
 
 ---
 
-# 🗺️ Annual Security Awareness Program Roadmap
+# 🗺️ Annual Security Awareness Program Roadmap and Strategic Outcomes
 
 ### *Executive Program Planning & Operational Readiness Visualization*
 
@@ -55,6 +55,8 @@ The roadmap also demonstrates alignment to:
 ### 🔗 View Annual Security Awareness Program Roadmap
 
 [View 2026 Enterprise Security Awareness Program Roadmap](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Security%20Awareness%20Annual%20Roadmap.png)
+
+[View 2026 Enterprise Security Awareness Program Strategic Outcomes](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Security%20Awareness%20Annual%20Strategic%20Outcomes.png)
 
 ---
 
