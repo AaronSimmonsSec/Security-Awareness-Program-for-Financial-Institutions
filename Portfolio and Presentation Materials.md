@@ -218,6 +218,7 @@ The executive tabletop package includes:
 ### 🔗 View Executive Tabletop Exercise Package
 
 [View Executive Tabletop Exercise Package](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example-Executive%20Tabletop%20Exercise%20Package.md)
+
 [View Executive Tabletop Exercise Package Infographic Comic Strip](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Executive%20Tabletop%20Exercise%20Package%20Infographic%20Comic%20Strip.png)
 
 ---
