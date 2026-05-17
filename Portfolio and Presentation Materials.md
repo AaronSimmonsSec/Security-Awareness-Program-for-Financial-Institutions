@@ -246,7 +246,7 @@ The exercise includes:
 
 ### 🔗 View Exercise
 
-[View Blue Team Incident Response Tabletop Exercise](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/blue-team-tabletop-exercise.md)
+[View Blue Team Incident Response Tabletop Exercise](https://github.com/AaronSimmonsSec/Security-Awareness-Program-for-Financial-Institutions/blob/main/Example%20-%20Incident%20Response%20Tabletop%20Scenario.md)
 
 ---
 
