@@ -9,7 +9,7 @@ All materials are designed for financial institutions and support awareness init
 
 # 📚 Table of Contents
 
-- [🗺️ Annual Security Awareness Program Roadmap and Strategic Outcomes](#️-annual-security-awareness-program-roadmap-and-stratetic-outcomes)
+- [🗺️ Annual Security Awareness Program Roadmap and Strategic Outcomes](#️-annual-security-awareness-program-roadmap-and-strategic-outcomes)
 - [🎓 2026 Security Awareness Webinar Series](#-2026-security-awareness-webinar-series)
 - [🛠️ 2026 Technology Webinar Series](#️-2026-technology-webinar-series)
 - [📰 2026 Security Awareness Newsletter Series](#-2026-security-awareness-newsletter-series)
